@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aebced44-8a06-414c-b931-5d53b08410a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindOutlinier/FindOutlinier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindOutlinier/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map_reduce/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map_reduce/EmployeeDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map_reduce/MapReduceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorith-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorith-practice.iml" afterDir="false" />
-    </list>
+    <list default="true" id="aebced44-8a06-414c-b931-5d53b08410a0" name="Changes" comment="Practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673281177386</updated>
     </task>
+    <task id="LOCAL-00001" summary="Practice">
+      <created>1674697565130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674697565130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
 </project>
